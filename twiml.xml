@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">Olá, você está recebendo uma ligação automatizada da Twilio. Tenha um ótimo dia!</Say>
+  <Say voice="alice">Hi, how are you doing?</Say>
 </Response>
